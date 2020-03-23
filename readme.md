@@ -1,5 +1,5 @@
 <h1>Password Generator</h1>
-<p><a href="https://uxhawk.github.io/class-activities/week-03/homework/index.html">Generate Passwords</a></p>
+<p>Open <a href="https://uxhawk.github.io/gw-hmwk-03-pw-gen/">Password Generator</a></p>
 <img src="https://lh3.googleusercontent.com/CX1Y7AAJHfG7a0vcQjqoyJyBrvZAsCU8jk0Ea7aXXxnU2LQwn3OkHL9ViUDekrxk6xrZu6y2Q4wWeV9vR1R9RmJfetlz8odQs9LCVtRRftrP_gnB0hijnuRQH-nGhMqfU7y1s_mjrNWREdmo82JRiRlx3YGaQDAsxatxFOtBGKg0jSI3znb9OwjCRSrI3JDnYBkB41muN7uXo9Yw1BkQJ93Ms1D00nVHZV72KDW7PZvHw3A_ErGsZRqgcjJEMRHo1XqLc3Gy0kMqYBeqI6LEr5oIZgw78L8WU6nf8ZFMbBzNpGh2pQXps2nRawx-_uaHjpB_sKLN4sZG1iR0eqsj4zLlFI_-RCHdcpVZRGgbNpdCGuRm5RAztSohLaKXaDEPUwZD9ewC9q7hh3T1CvYjBnKKUvpc9R9ZvpvBpdfVRoBJ5adDdRIwub2FoP_LAkjeS9J704K8mTYR5k5T0_Y5Jy1JDDSTgRcoey19r_FgHQV_edz0Ubv0Bnh0jFe8to3nfcX4NPXgrSz5NBv2_PxMKQwg_bd5vIs8uoDU57M1OsMaNUNdwiKt7vFOUNFaMJ_qKZgSbGSP6C1xdXy7--w8eMTNbO-GAJfiIyYHImzSo0fJRjJesTTGQbQ2JkXOAC-a7TaGD6uFRb1Yo8pdP4Nvd1MI9g54LpofkJEgwrWChsYZJjFnC54reH5z9uIOQw=w880-h494-no"
     alt="Screenshot of the password generator">
 
